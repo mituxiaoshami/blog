@@ -322,4 +322,4 @@ ObjectMonitor() {
 
 下图展示了他们之前的流程
 
-![image](../../blog/doc/picture/获取对象监视器流程.jpg)
+![github](https://github.com/mituxiaoshami/blog/blob/master/doc/picture/%E8%8E%B7%E5%8F%96%E5%AF%B9%E8%B1%A1%E7%9B%91%E8%A7%86%E5%99%A8%E6%B5%81%E7%A8%8B.jpg "获取对象监视器流程.jpg")
