@@ -314,7 +314,7 @@ ObjectMonitor() {
 
 下图展示了他们之前的关系
 
-![image](../../blog/doc/picture/对象监视器组件关系.jpg) 
+![github](https://github.com/mituxiaoshami/blog/blob/master/doc/picture/%E5%AF%B9%E8%B1%A1%E7%9B%91%E8%A7%86%E5%99%A8%E7%BB%84%E4%BB%B6%E5%85%B3%E7%B3%BB.jpg "对象监视器组件关系.jpg")
 
 当多个线程同时访问一段同步代码时，多个线程会先被存放在 ContentionList 和 _EntryList 集合中，处于 block 状态的线程，都会被加入到该列表。接下来当线程获取到对象的 Monitor 时，Monitor 是依靠底层操作系统的 Mutex Lock 来实现互斥的，线程申请 Mutex 成功，则持有该 Mutex，其它线程将无法获取到该 Mutex，竞争失败的线程会再次进入 ContentionList 被挂起。
 
