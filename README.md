@@ -7,6 +7,7 @@
 ### 设计模式
 
 * [单例模式：如何创建单一对象优化系统性能](https://github.com/mituxiaoshami/blog/blob/master/doc/singleton_design.md)
+* [原型模式与享元模式：提升系统性能的利器](https://github.com/mituxiaoshami/blog/blob/master/doc/prototype_design.md)
 
 ### 多线程
 
