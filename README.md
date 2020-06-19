@@ -8,8 +8,12 @@
 
 * [单例模式：如何创建单一对象优化系统性能](https://github.com/mituxiaoshami/blog/blob/master/doc/singleton_design.md)
 * [原型模式与享元模式：提升系统性能的利器](https://github.com/mituxiaoshami/blog/blob/master/doc/prototype_design.md)
+* [如何使用设计模式优化并发编程](https://github.com/mituxiaoshami/blog/blob/master/doc/thread_design.md)
+* [生产者消费者模式：电商库存设计优化](https://github.com/mituxiaoshami/blog/blob/master/doc/producer_design.md)
 
 ### 多线程
+
+* [Java并发之Condition](https://github.com/mituxiaoshami/blog/blob/master/doc/condition.md)
 
 ### 性能调优
 
