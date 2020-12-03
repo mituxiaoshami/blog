@@ -2,7 +2,7 @@
 
 ### spring体系架构（基于4.x）
 
-![spring_1.png](../picture/spring_1.jpg)
+![spring_1.png](../picture/spring介绍以及源码环境搭建_1.jpg)
 
 为什么是基于4.x的版本的呢？
 
