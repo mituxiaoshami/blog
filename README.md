@@ -30,9 +30,9 @@
 
 ### DDD学习
 
+### github相关问题
 
 #### MAC下访问github速度慢或者无法访问的解决办法
-
 
 打开终端，编辑hosts文件
 
@@ -104,9 +104,6 @@ Request timeout for icmp_seq 1
 最后测试
 
 浏览器访问 https://github.com 就能正常了。
-
-
-### github相关问题
 
 #### github无法加载图片的解决办法
 
