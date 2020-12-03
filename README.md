@@ -105,6 +105,9 @@ Request timeout for icmp_seq 1
 
 浏览器访问 https://github.com 就能正常了。
 
+
+### github相关问题
+
 #### github无法加载图片的解决办法
 
 当前有效ip查询办法：
