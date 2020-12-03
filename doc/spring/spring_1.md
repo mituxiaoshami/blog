@@ -2,7 +2,7 @@
 
 ### spring体系架构（基于4.x）
 
-![spring_1.png](../picture/spring介绍以及源码环境搭建_1.jpg)
+![spring_1.png](../picture/spring_1_1.jpg)
 
 为什么是基于4.x的版本的呢？
 
@@ -86,19 +86,19 @@ https://github.com/spring-projects/spring-framework
 
 ##### 选择RELEASE版本
 
-![f832ebe563cf73abb6f2424bc8c34e5c.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p372)
+![spring_1_2.png](../picture/spring_1_2.jpg)
 
 
 
 ##### 下载源码
 
-![61495e250ab259ce9164288eab691c60.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p374)
+![spring_1_3.png](../picture/spring_1_3.jpg)
 
 
 
 ##### 解压源码
 
-![9bd4e5701ce2e9098024b0b648cf42b6.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p375)
+![spring_1_4.png](../picture/spring_1_4.jpg)
 
 
 #### 编译源码
@@ -107,23 +107,23 @@ https://github.com/spring-projects/spring-framework
 
 安装源码对应的gradle版本(也可不安装)，建议使用gradleWraper中的gradle(spring解压出来的包中有gradleWraper)
 
-![a4d5e0317e66cfe50008a6a1e0438602.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p377)
+![spring_1_5.png](../picture/spring_1_5.jpg)
 
 进去wrapper里面去看，有一个gradle-wrapper.properties
 
-![37f1322578adabc95ab1b67286deb510.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p378)
+![spring_1_6.png](../picture/spring_1_6.jpg)
 
 这里面呢就会告诉要编译这份源码，spring会携带一个远程的一个gradle服务，所以会自动帮你下载这个版本(省去下载gradle的步骤)
 
 ##### 修改编译文件
 
-![fba77e5a5dd2df352c49c9a4a230f23d.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p379)
+![spring_1_7.png](../picture/spring_1_7.jpg)
 
 这个文件相当于Maven中的pom.xml
 
 第一步：修改镜像
 
-![6a949122573f15f6e7b8a250d971aa98.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p380)
+![spring_1_8.png](../picture/spring_1_8.jpg)
 
 配置阿里云的镜像，maven拉取包的时候会快很多
 
@@ -140,7 +140,7 @@ windows: gradlew :spring-oxm:compileTestJava
 
 (第一次编译，因为要远程的去下载gradle，所以会很慢很慢，你可以听首歌，喝杯茶)
 
-![a5613125324d30e8c5e7fe87fbe2482f.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p381)
+![spring_1_9.png](../picture/spring_1_9.jpg)
 
 看到下面的build successful就表示成功了，下面的报错可以忽略
 
@@ -151,15 +151,15 @@ windows: gradlew :spring-oxm:compileTestJava
 
 用idea打开刚刚编译后的项目目录
 
-![e34fe3c8e23315b75ec4f7f8aec894bc.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p382)
+![spring_1_10.png](../picture/spring_1_10.jpg)
 
 勾选自动导入和使用远程gradle wrapper
 
-![6be9815110f991f6b74bcc4760945509.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p383)
+![spring_1_11.png](../picture/spring_1_11.jpg)
 
 点击ok，导入到idea，进行编译
 
-![3e3832a13d2934622a3cb1431c123088.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p385)
+![spring_1_12.png](../picture/spring_1_12.jpg)
 
 如果编译完显示这个，可能是因为你的idea和gradle版本不兼容
 
@@ -167,7 +167,7 @@ windows: gradlew :spring-oxm:compileTestJava
 
 编译完会显示：
 
-![b4a32e2c343a75286cd7d1e2983b17bc.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p387)
+![spring_1_13.png](../picture/spring_1_13.jpg)
 
 
 #### 编译代码测试
@@ -175,7 +175,7 @@ windows: gradlew :spring-oxm:compileTestJava
 
 ##### 新建模块(选择gradle)
 
-![bd575cd5d0e96df549694a73dc49f1ca.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p389)
+![spring_1_14.png](../picture/spring_1_14.jpg)
 
 
 ##### 编写代码测试IOC功能
@@ -225,4 +225,7 @@ public class MainStart {
 
 4、启动，正确输出，大功告成
 
-![13e7a629edca4cd38f5fcf7df4f2e85d.png](evernotecid://2F4D894B-8E4A-4F7F-92FE-5695FAEC6555/appyinxiangcom/20880432/ENResource/p390)
+![spring_1_15.png](../picture/spring_1_15.jpg)
+
+
+
