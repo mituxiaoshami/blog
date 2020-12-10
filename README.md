@@ -20,6 +20,8 @@
 
 * [Spring介绍和环境搭建](https://github.com/mituxiaoshami/blog/blob/master/doc/spring/spring_1.md)
 
+* [Spring IOC加载流程(一)](https://github.com/mituxiaoshami/blog/blob/master/doc/spring/spring_2.md)
+
 ### 性能调优
 
 #### 多线程性能调优
