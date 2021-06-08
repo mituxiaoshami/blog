@@ -1,5 +1,6 @@
 # Blog
 
+
 ### Java基础
 
 * [深入浅出HashMap的设计与优化](https://github.com/mituxiaoshami/blog/blob/master/doc/hashMap.md)
