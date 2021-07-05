@@ -1,6 +1,6 @@
 ## Java-Gift ![License](https://img.shields.io/badge/course-java-brightgreen)
 
-[Java-宝藏](picture/Java-宝藏.png)
+![Java-宝藏](picture/Java-宝藏.png)
 
 :point_right: 这是一份送给将要踏上 `java` 这条路或者已经在路上的你的一份:gift:
 
