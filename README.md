@@ -1,4 +1,4 @@
-## Java-Gift ![License](https://img.shields.io/badge/course-java-brightgreen) ![License](https://img.shields.io/badge/course-redis-orange) ![License](https://img.shields.io/badge/course-mysql-red)
+## Java-Gift ![License](https://img.shields.io/badge/course-java-brightgreen) ![License](https://img.shields.io/badge/course-redis-orange) ![License](https://img.shields.io/badge/course-mysql-red) ![License](https://img.shields.io/badge/course-jvm-blue) ![License](https://img.shields.io/badge/course-thread-blueviolet)
 
 ![Java-宝藏](picture/Java-宝藏.png)
 
