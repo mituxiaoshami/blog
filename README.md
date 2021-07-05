@@ -1,8 +1,10 @@
-## Java ![License](https://img.shields.io/badge/course-java-brightgreen)
+## Java-Gift ![License](https://img.shields.io/badge/course-java-brightgreen)
+
+[Java-宝藏](picture/Java-宝藏.png)
 
 :point_right: 这是一份送给将要踏上 `java` 这条路或者已经在路上的你的一份:gift:
 
-:point_right: 如果不知道该学习什么的话，请看 Java 学习线路图是怎样的？ （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！
+:point_right: 如果不知道学习路线，请看 Java 学习线路图是怎样的？ 这是 2021 最新最完善的 Java 学习路线！
 
 :point_right: 另外，我收集了后端各项技术的 `pdf电子书`，需要的小伙伴加我微信输入 `相应技术关键字` 即可！
 
