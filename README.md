@@ -1,12 +1,12 @@
-:raising_hand_man: 这是一份送给将要踏上 `java` 这条路或者已经在路上的你的一份:gift:
+## Java ![License](https://img.shields.io/badge/course-java-brightgreen)
 
-:raising_hand_man: 如果不知道该学习什么的话，请看 Java 学习线路图是怎样的？ （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！
+:point_right: 这是一份送给将要踏上 `java` 这条路或者已经在路上的你的一份:gift:
 
-:raising_hand_man: 另外，我收集了后端各项技术的 `pdf电子书`，需要的小伙伴加我微信输入 `相应技术关键字` 即可！
+:point_right: 如果不知道该学习什么的话，请看 Java 学习线路图是怎样的？ （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！
 
-:raising_hand_man: 转载须知 ：以下所有文章如非文首说明皆为我的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
+:point_right: 另外，我收集了后端各项技术的 `pdf电子书`，需要的小伙伴加我微信输入 `相应技术关键字` 即可！
 
-![License](https://img.shields.io/badge/course-java-brightgreen)
+:point_right: 转载须知 ：以下所有文章如非文首说明皆为我的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！:hammer:
 
 ### JVM
 
