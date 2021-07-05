@@ -1,4 +1,6 @@
-# Blog [1](https://img.shields.io/badge/course-java-brightgreen)
+# Blog
+
+[](https://img.shields.io/badge/course-java-brightgreen)
 
 ### JVM
 
