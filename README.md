@@ -1,6 +1,6 @@
-# Blog
+# Java- ![License](https://img.shields.io/badge/course-java-brightgreen)
 
-![License](https://img.shields.io/badge/course-java-brightgreen)
+:raising_hand_man: 这是一份送给将要踏上 `java` 这条路或者已经在路上的你的一份🎁
 
 ### JVM
 
